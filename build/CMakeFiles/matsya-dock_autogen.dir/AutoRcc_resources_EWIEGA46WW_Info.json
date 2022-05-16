@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen",
+	"CMAKE_BINARY_DIR" : "/home/tokyo/clone/RebootOS/dock/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/tokyo/clone/RebootOS/dock/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/tokyo/clone/RebootOS/dock",
+	"CMAKE_SOURCE_DIR" : "/home/tokyo/clone/RebootOS/dock",
+	"INCLUDE_DIR" : "/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/tokyo/clone/RebootOS/dock/qml/DockItem.qml",
+		"/home/tokyo/clone/RebootOS/dock/qml/AppItem.qml",
+		"/home/tokyo/clone/RebootOS/dock/qml/main.qml",
+		"/home/tokyo/clone/RebootOS/dock/images/rocket.svg",
+		"/home/tokyo/clone/RebootOS/dock/images/launchpad.svg",
+		"/home/tokyo/clone/RebootOS/dock/images/launcher.svg"
+	],
+	"LOCK_FILE" : "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/tokyo/clone/RebootOS/dock/resources.qrc",
+	"VERBOSITY" : 0
+}

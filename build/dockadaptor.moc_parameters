@@ -1,0 +1,5 @@
+-I/home/tokyo/clone/RebootOS/dock
+-I/home/tokyo/clone/RebootOS/dock/build
+-o
+/home/tokyo/clone/RebootOS/dock/build/dockadaptor.moc
+/home/tokyo/clone/RebootOS/dock/build/dockadaptor.h
