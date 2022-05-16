@@ -1,4 +1,4 @@
-# Install script for directory: /home/tokyo/clone/RebootOS/dock
+# Install script for directory: /home/tokyo/Documents/GitHub/dock
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -49,7 +49,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/matsya-dock"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/tokyo/clone/RebootOS/dock/build/matsya-dock")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/tokyo/Documents/GitHub/dock/build/matsya-dock")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/matsya-dock" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/matsya-dock")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -68,52 +68,52 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
 file(INSTALL DESTINATION "/usr/share/matsya-dock/translations" TYPE FILE FILES
-    "/home/tokyo/clone/RebootOS/dock/build/ar_AA.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/be_BY.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/be_Latn.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/bg_BG.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/bs_BA.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/cs_CZ.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/da_DK.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/de_DE.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/en_US.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/eo_XX.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/es_ES.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/es_MX.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/fa_IR.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/fi_FI.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/fr_FR.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/he_IL.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/hi_IN.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/hu_HU.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/id_ID.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/ie.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/it_IT.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/ja_JP.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/lt_LT.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/lv_LV.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/mg.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/ml_IN.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/nb_NO.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/ne_NP.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/pl_PL.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/pt_BR.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/pt_PT.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/ro_RO.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/ru_RU.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/si_LK.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/sk_SK.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/so.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/sr_RS.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/sv_SE.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/sw.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/ta_IN.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/tr_TR.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/uk_UA.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/uz_UZ.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/vi_VN.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/zh_CN.qm"
-    "/home/tokyo/clone/RebootOS/dock/build/zh_TW.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/ar_AA.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/be_BY.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/be_Latn.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/bg_BG.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/bs_BA.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/cs_CZ.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/da_DK.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/de_DE.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/en_US.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/eo_XX.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/es_ES.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/es_MX.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/fa_IR.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/fi_FI.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/fr_FR.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/he_IL.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/hi_IN.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/hu_HU.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/id_ID.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/ie.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/it_IT.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/ja_JP.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/lt_LT.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/lv_LV.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/mg.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/ml_IN.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/nb_NO.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/ne_NP.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/pl_PL.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/pt_BR.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/pt_PT.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/ro_RO.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/ru_RU.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/si_LK.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/sk_SK.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/so.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/sr_RS.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/sv_SE.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/sw.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/ta_IN.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/tr_TR.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/uk_UA.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/uz_UZ.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/vi_VN.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/zh_CN.qm"
+    "/home/tokyo/Documents/GitHub/dock/build/zh_TW.qm"
     )
 endif()
 
@@ -126,7 +126,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/etc" TYPE FILE FILES "/home/tokyo/clone/RebootOS/dock/matsya-dock-list.conf")
+file(INSTALL DESTINATION "/etc" TYPE FILE FILES "/home/tokyo/Documents/GitHub/dock/matsya-dock-list.conf")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -137,5 +137,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/tokyo/clone/RebootOS/dock/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/tokyo/Documents/GitHub/dock/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

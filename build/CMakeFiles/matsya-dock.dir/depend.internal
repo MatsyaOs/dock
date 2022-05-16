@@ -12,9 +12,9 @@ CMakeFiles/matsya-dock.dir/dockadaptor.cpp.o
  ../src/systemappmonitor.h
  ../src/trashmanager.h
  ../src/xwindowinterface.h
- /home/tokyo/clone/RebootOS/dock/build/dockadaptor.cpp
- /home/tokyo/clone/RebootOS/dock/build/dockadaptor.h
- /home/tokyo/clone/RebootOS/dock/build/dockadaptor.moc
+ /home/tokyo/Documents/GitHub/dock/build/dockadaptor.cpp
+ /home/tokyo/Documents/GitHub/dock/build/dockadaptor.h
+ /home/tokyo/Documents/GitHub/dock/build/dockadaptor.moc
  /usr/include/KF5/KWindowSystem/KWindowEffects
  /usr/include/KF5/KWindowSystem/KWindowInfo
  /usr/include/KF5/KWindowSystem/kwindoweffects.h
@@ -314,32 +314,32 @@ CMakeFiles/matsya-dock.dir/dockadaptor.cpp.o
  /usr/include/x86_64-linux-gnu/qt5/QtQuick/qtquick-config.h
  /usr/include/x86_64-linux-gnu/qt5/QtQuick/qtquickglobal.h
 CMakeFiles/matsya-dock.dir/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp.o
- /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp
+ /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp
 CMakeFiles/matsya-dock.dir/matsya-dock_autogen/mocs_compilation.cpp.o
- /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_activity.cpp
- /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_applicationmodel.cpp
- /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_docksettings.cpp
- /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_fakewindow.cpp
- /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_mainwindow.cpp
- /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_processprovider.cpp
- /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_systemappitem.cpp
- /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_systemappmonitor.cpp
- /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_trashmanager.cpp
- /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_utils.cpp
- /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_xwindowinterface.cpp
- /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/mocs_compilation.cpp
- /home/tokyo/clone/RebootOS/dock/src/activity.h
- /home/tokyo/clone/RebootOS/dock/src/applicationitem.h
- /home/tokyo/clone/RebootOS/dock/src/applicationmodel.h
- /home/tokyo/clone/RebootOS/dock/src/docksettings.h
- /home/tokyo/clone/RebootOS/dock/src/fakewindow.h
- /home/tokyo/clone/RebootOS/dock/src/mainwindow.h
- /home/tokyo/clone/RebootOS/dock/src/processprovider.h
- /home/tokyo/clone/RebootOS/dock/src/systemappitem.h
- /home/tokyo/clone/RebootOS/dock/src/systemappmonitor.h
- /home/tokyo/clone/RebootOS/dock/src/trashmanager.h
- /home/tokyo/clone/RebootOS/dock/src/utils.h
- /home/tokyo/clone/RebootOS/dock/src/xwindowinterface.h
+ /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_activity.cpp
+ /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_applicationmodel.cpp
+ /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_docksettings.cpp
+ /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_fakewindow.cpp
+ /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_mainwindow.cpp
+ /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_processprovider.cpp
+ /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_systemappitem.cpp
+ /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_systemappmonitor.cpp
+ /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_trashmanager.cpp
+ /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_utils.cpp
+ /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_xwindowinterface.cpp
+ /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/mocs_compilation.cpp
+ /home/tokyo/Documents/GitHub/dock/src/activity.h
+ /home/tokyo/Documents/GitHub/dock/src/applicationitem.h
+ /home/tokyo/Documents/GitHub/dock/src/applicationmodel.h
+ /home/tokyo/Documents/GitHub/dock/src/docksettings.h
+ /home/tokyo/Documents/GitHub/dock/src/fakewindow.h
+ /home/tokyo/Documents/GitHub/dock/src/mainwindow.h
+ /home/tokyo/Documents/GitHub/dock/src/processprovider.h
+ /home/tokyo/Documents/GitHub/dock/src/systemappitem.h
+ /home/tokyo/Documents/GitHub/dock/src/systemappmonitor.h
+ /home/tokyo/Documents/GitHub/dock/src/trashmanager.h
+ /home/tokyo/Documents/GitHub/dock/src/utils.h
+ /home/tokyo/Documents/GitHub/dock/src/xwindowinterface.h
  /usr/include/KF5/KWindowSystem/KWindowEffects
  /usr/include/KF5/KWindowSystem/KWindowInfo
  /usr/include/KF5/KWindowSystem/kwindoweffects.h
@@ -614,9 +614,9 @@ CMakeFiles/matsya-dock.dir/matsya-dock_autogen/mocs_compilation.cpp.o
  /usr/include/x86_64-linux-gnu/qt5/QtQuick/qtquick-config.h
  /usr/include/x86_64-linux-gnu/qt5/QtQuick/qtquickglobal.h
 CMakeFiles/matsya-dock.dir/src/activity.cpp.o
- /home/tokyo/clone/RebootOS/dock/src/activity.cpp
- /home/tokyo/clone/RebootOS/dock/src/activity.h
- /home/tokyo/clone/RebootOS/dock/src/docksettings.h
+ /home/tokyo/Documents/GitHub/dock/src/activity.cpp
+ /home/tokyo/Documents/GitHub/dock/src/activity.h
+ /home/tokyo/Documents/GitHub/dock/src/docksettings.h
  /usr/include/KF5/KWindowSystem/KWindowSystem
  /usr/include/KF5/KWindowSystem/NETWM
  /usr/include/KF5/KWindowSystem/config-kwindowsystem.h
@@ -705,15 +705,15 @@ CMakeFiles/matsya-dock.dir/src/activity.cpp.o
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qwindowdefs.h
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qwindowdefs_win.h
 CMakeFiles/matsya-dock.dir/src/applicationmodel.cpp.o
- /home/tokyo/clone/RebootOS/dock/src/applicationitem.h
- /home/tokyo/clone/RebootOS/dock/src/applicationmodel.cpp
- /home/tokyo/clone/RebootOS/dock/src/applicationmodel.h
- /home/tokyo/clone/RebootOS/dock/src/docksettings.h
- /home/tokyo/clone/RebootOS/dock/src/processprovider.h
- /home/tokyo/clone/RebootOS/dock/src/systemappitem.h
- /home/tokyo/clone/RebootOS/dock/src/systemappmonitor.h
- /home/tokyo/clone/RebootOS/dock/src/utils.h
- /home/tokyo/clone/RebootOS/dock/src/xwindowinterface.h
+ /home/tokyo/Documents/GitHub/dock/src/applicationitem.h
+ /home/tokyo/Documents/GitHub/dock/src/applicationmodel.cpp
+ /home/tokyo/Documents/GitHub/dock/src/applicationmodel.h
+ /home/tokyo/Documents/GitHub/dock/src/docksettings.h
+ /home/tokyo/Documents/GitHub/dock/src/processprovider.h
+ /home/tokyo/Documents/GitHub/dock/src/systemappitem.h
+ /home/tokyo/Documents/GitHub/dock/src/systemappmonitor.h
+ /home/tokyo/Documents/GitHub/dock/src/utils.h
+ /home/tokyo/Documents/GitHub/dock/src/xwindowinterface.h
  /usr/include/KF5/KWindowSystem/KWindowEffects
  /usr/include/KF5/KWindowSystem/KWindowInfo
  /usr/include/KF5/KWindowSystem/kwindoweffects.h
@@ -946,8 +946,8 @@ CMakeFiles/matsya-dock.dir/src/applicationmodel.cpp.o
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qwindowdefs.h
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qwindowdefs_win.h
 CMakeFiles/matsya-dock.dir/src/docksettings.cpp.o
- /home/tokyo/clone/RebootOS/dock/src/docksettings.cpp
- /home/tokyo/clone/RebootOS/dock/src/docksettings.h
+ /home/tokyo/Documents/GitHub/dock/src/docksettings.cpp
+ /home/tokyo/Documents/GitHub/dock/src/docksettings.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QDebug
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QFile
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QObject
@@ -1032,9 +1032,9 @@ CMakeFiles/matsya-dock.dir/src/docksettings.cpp.o
  /usr/include/x86_64-linux-gnu/qt5/QtDBus/qdbusservicewatcher.h
  /usr/include/x86_64-linux-gnu/qt5/QtDBus/qtdbusglobal.h
 CMakeFiles/matsya-dock.dir/src/fakewindow.cpp.o
- /home/tokyo/clone/RebootOS/dock/src/docksettings.h
- /home/tokyo/clone/RebootOS/dock/src/fakewindow.cpp
- /home/tokyo/clone/RebootOS/dock/src/fakewindow.h
+ /home/tokyo/Documents/GitHub/dock/src/docksettings.h
+ /home/tokyo/Documents/GitHub/dock/src/fakewindow.cpp
+ /home/tokyo/Documents/GitHub/dock/src/fakewindow.h
  /usr/include/KF5/KWindowSystem/KWindowSystem
  /usr/include/KF5/KWindowSystem/NETWM
  /usr/include/KF5/KWindowSystem/config-kwindowsystem.h
@@ -1209,8 +1209,8 @@ CMakeFiles/matsya-dock.dir/src/fakewindow.cpp.o
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qtwidgetsglobal.h
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h
 CMakeFiles/matsya-dock.dir/src/iconthemeimageprovider.cpp.o
- /home/tokyo/clone/RebootOS/dock/src/iconthemeimageprovider.cpp
- /home/tokyo/clone/RebootOS/dock/src/iconthemeimageprovider.h
+ /home/tokyo/Documents/GitHub/dock/src/iconthemeimageprovider.cpp
+ /home/tokyo/Documents/GitHub/dock/src/iconthemeimageprovider.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qalgorithms.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qarraydata.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qatomic.h
@@ -1320,17 +1320,17 @@ CMakeFiles/matsya-dock.dir/src/iconthemeimageprovider.cpp.o
  /usr/include/x86_64-linux-gnu/qt5/QtQuick/qtquick-config.h
  /usr/include/x86_64-linux-gnu/qt5/QtQuick/qtquickglobal.h
 CMakeFiles/matsya-dock.dir/src/main.cpp.o
- /home/tokyo/clone/RebootOS/dock/src/activity.h
- /home/tokyo/clone/RebootOS/dock/src/applicationitem.h
- /home/tokyo/clone/RebootOS/dock/src/applicationmodel.h
- /home/tokyo/clone/RebootOS/dock/src/docksettings.h
- /home/tokyo/clone/RebootOS/dock/src/fakewindow.h
- /home/tokyo/clone/RebootOS/dock/src/main.cpp
- /home/tokyo/clone/RebootOS/dock/src/mainwindow.h
- /home/tokyo/clone/RebootOS/dock/src/systemappitem.h
- /home/tokyo/clone/RebootOS/dock/src/systemappmonitor.h
- /home/tokyo/clone/RebootOS/dock/src/trashmanager.h
- /home/tokyo/clone/RebootOS/dock/src/xwindowinterface.h
+ /home/tokyo/Documents/GitHub/dock/src/activity.h
+ /home/tokyo/Documents/GitHub/dock/src/applicationitem.h
+ /home/tokyo/Documents/GitHub/dock/src/applicationmodel.h
+ /home/tokyo/Documents/GitHub/dock/src/docksettings.h
+ /home/tokyo/Documents/GitHub/dock/src/fakewindow.h
+ /home/tokyo/Documents/GitHub/dock/src/main.cpp
+ /home/tokyo/Documents/GitHub/dock/src/mainwindow.h
+ /home/tokyo/Documents/GitHub/dock/src/systemappitem.h
+ /home/tokyo/Documents/GitHub/dock/src/systemappmonitor.h
+ /home/tokyo/Documents/GitHub/dock/src/trashmanager.h
+ /home/tokyo/Documents/GitHub/dock/src/xwindowinterface.h
  /usr/include/KF5/KWindowSystem/KWindowEffects
  /usr/include/KF5/KWindowSystem/KWindowInfo
  /usr/include/KF5/KWindowSystem/kwindoweffects.h
@@ -1628,18 +1628,18 @@ CMakeFiles/matsya-dock.dir/src/main.cpp.o
  /usr/include/x86_64-linux-gnu/qt5/QtWidgets/qwidget.h
 CMakeFiles/matsya-dock.dir/src/mainwindow.cpp.o
  ../src/mainwindow.h
- /home/tokyo/clone/RebootOS/dock/src/activity.h
- /home/tokyo/clone/RebootOS/dock/src/applicationitem.h
- /home/tokyo/clone/RebootOS/dock/src/applicationmodel.h
- /home/tokyo/clone/RebootOS/dock/src/docksettings.h
- /home/tokyo/clone/RebootOS/dock/src/fakewindow.h
- /home/tokyo/clone/RebootOS/dock/src/mainwindow.cpp
- /home/tokyo/clone/RebootOS/dock/src/mainwindow.h
- /home/tokyo/clone/RebootOS/dock/src/processprovider.h
- /home/tokyo/clone/RebootOS/dock/src/systemappitem.h
- /home/tokyo/clone/RebootOS/dock/src/systemappmonitor.h
- /home/tokyo/clone/RebootOS/dock/src/trashmanager.h
- /home/tokyo/clone/RebootOS/dock/src/xwindowinterface.h
+ /home/tokyo/Documents/GitHub/dock/src/activity.h
+ /home/tokyo/Documents/GitHub/dock/src/applicationitem.h
+ /home/tokyo/Documents/GitHub/dock/src/applicationmodel.h
+ /home/tokyo/Documents/GitHub/dock/src/docksettings.h
+ /home/tokyo/Documents/GitHub/dock/src/fakewindow.h
+ /home/tokyo/Documents/GitHub/dock/src/mainwindow.cpp
+ /home/tokyo/Documents/GitHub/dock/src/mainwindow.h
+ /home/tokyo/Documents/GitHub/dock/src/processprovider.h
+ /home/tokyo/Documents/GitHub/dock/src/systemappitem.h
+ /home/tokyo/Documents/GitHub/dock/src/systemappmonitor.h
+ /home/tokyo/Documents/GitHub/dock/src/trashmanager.h
+ /home/tokyo/Documents/GitHub/dock/src/xwindowinterface.h
  /usr/include/KF5/KWindowSystem/KWindowEffects
  /usr/include/KF5/KWindowSystem/KWindowInfo
  /usr/include/KF5/KWindowSystem/KWindowSystem
@@ -1963,8 +1963,8 @@ CMakeFiles/matsya-dock.dir/src/mainwindow.cpp.o
  /usr/include/x86_64-linux-gnu/qt5/QtQuick/qtquickglobal.h
  dockadaptor.h
 CMakeFiles/matsya-dock.dir/src/processprovider.cpp.o
- /home/tokyo/clone/RebootOS/dock/src/processprovider.cpp
- /home/tokyo/clone/RebootOS/dock/src/processprovider.h
+ /home/tokyo/Documents/GitHub/dock/src/processprovider.cpp
+ /home/tokyo/Documents/GitHub/dock/src/processprovider.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QObject
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qalgorithms.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qarraydata.h
@@ -2041,8 +2041,8 @@ CMakeFiles/matsya-dock.dir/src/processprovider.cpp.o
  /usr/include/x86_64-linux-gnu/qt5/QtDBus/qdbuspendingcall.h
  /usr/include/x86_64-linux-gnu/qt5/QtDBus/qtdbusglobal.h
 CMakeFiles/matsya-dock.dir/src/systemappitem.cpp.o
- /home/tokyo/clone/RebootOS/dock/src/systemappitem.cpp
- /home/tokyo/clone/RebootOS/dock/src/systemappitem.h
+ /home/tokyo/Documents/GitHub/dock/src/systemappitem.cpp
+ /home/tokyo/Documents/GitHub/dock/src/systemappitem.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QObject
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qalgorithms.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qarraydata.h
@@ -2097,9 +2097,9 @@ CMakeFiles/matsya-dock.dir/src/systemappitem.cpp.o
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qvector.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qversiontagging.h
 CMakeFiles/matsya-dock.dir/src/systemappmonitor.cpp.o
- /home/tokyo/clone/RebootOS/dock/src/systemappitem.h
- /home/tokyo/clone/RebootOS/dock/src/systemappmonitor.cpp
- /home/tokyo/clone/RebootOS/dock/src/systemappmonitor.h
+ /home/tokyo/Documents/GitHub/dock/src/systemappitem.h
+ /home/tokyo/Documents/GitHub/dock/src/systemappmonitor.cpp
+ /home/tokyo/Documents/GitHub/dock/src/systemappmonitor.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QDirIterator
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QFileSystemWatcher
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QLocale
@@ -2179,8 +2179,8 @@ CMakeFiles/matsya-dock.dir/src/systemappmonitor.cpp.o
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qvector.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qversiontagging.h
 CMakeFiles/matsya-dock.dir/src/trashmanager.cpp.o
- /home/tokyo/clone/RebootOS/dock/src/trashmanager.cpp
- /home/tokyo/clone/RebootOS/dock/src/trashmanager.h
+ /home/tokyo/Documents/GitHub/dock/src/trashmanager.cpp
+ /home/tokyo/Documents/GitHub/dock/src/trashmanager.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QDebug
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QDir
  /usr/include/x86_64-linux-gnu/qt5/QtCore/QFileSystemWatcher
@@ -2260,10 +2260,10 @@ CMakeFiles/matsya-dock.dir/src/trashmanager.cpp.o
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qvector.h
  /usr/include/x86_64-linux-gnu/qt5/QtCore/qversiontagging.h
 CMakeFiles/matsya-dock.dir/src/utils.cpp.o
- /home/tokyo/clone/RebootOS/dock/src/systemappitem.h
- /home/tokyo/clone/RebootOS/dock/src/systemappmonitor.h
- /home/tokyo/clone/RebootOS/dock/src/utils.cpp
- /home/tokyo/clone/RebootOS/dock/src/utils.h
+ /home/tokyo/Documents/GitHub/dock/src/systemappitem.h
+ /home/tokyo/Documents/GitHub/dock/src/systemappmonitor.h
+ /home/tokyo/Documents/GitHub/dock/src/utils.cpp
+ /home/tokyo/Documents/GitHub/dock/src/utils.h
  /usr/include/KF5/KWindowSystem/KWindowSystem
  /usr/include/KF5/KWindowSystem/kwindowinfo.h
  /usr/include/KF5/KWindowSystem/kwindowsystem.h
@@ -2373,11 +2373,11 @@ CMakeFiles/matsya-dock.dir/src/utils.cpp.o
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qwindowdefs.h
  /usr/include/x86_64-linux-gnu/qt5/QtGui/qwindowdefs_win.h
 CMakeFiles/matsya-dock.dir/src/xwindowinterface.cpp.o
- /home/tokyo/clone/RebootOS/dock/src/applicationitem.h
- /home/tokyo/clone/RebootOS/dock/src/docksettings.h
- /home/tokyo/clone/RebootOS/dock/src/utils.h
- /home/tokyo/clone/RebootOS/dock/src/xwindowinterface.cpp
- /home/tokyo/clone/RebootOS/dock/src/xwindowinterface.h
+ /home/tokyo/Documents/GitHub/dock/src/applicationitem.h
+ /home/tokyo/Documents/GitHub/dock/src/docksettings.h
+ /home/tokyo/Documents/GitHub/dock/src/utils.h
+ /home/tokyo/Documents/GitHub/dock/src/xwindowinterface.cpp
+ /home/tokyo/Documents/GitHub/dock/src/xwindowinterface.h
  /usr/include/KF5/KWindowSystem/KWindowEffects
  /usr/include/KF5/KWindowSystem/KWindowInfo
  /usr/include/KF5/KWindowSystem/KWindowSystem

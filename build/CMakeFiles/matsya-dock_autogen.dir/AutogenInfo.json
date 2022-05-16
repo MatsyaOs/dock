@@ -1,15 +1,15 @@
 {
-	"BUILD_DIR" : "/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen",
-	"CMAKE_BINARY_DIR" : "/home/tokyo/clone/RebootOS/dock/build",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/tokyo/clone/RebootOS/dock/build",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/tokyo/clone/RebootOS/dock",
+	"BUILD_DIR" : "/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen",
+	"CMAKE_BINARY_DIR" : "/home/tokyo/Documents/GitHub/dock/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/tokyo/Documents/GitHub/dock/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/tokyo/Documents/GitHub/dock",
 	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/home/tokyo/clone/RebootOS/dock/CMakeLists.txt",
+		"/home/tokyo/Documents/GitHub/dock/CMakeLists.txt",
 		"/usr/share/cmake-3.18/Modules/CMakeDetermineSystem.cmake",
 		"/usr/share/cmake-3.18/Modules/CMakeSystem.cmake.in",
-		"/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/3.18.4/CMakeSystem.cmake",
+		"/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/3.18.4/CMakeSystem.cmake",
 		"/usr/share/cmake-3.18/Modules/CMakeUnixFindMake.cmake",
 		"/usr/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake",
 		"/usr/share/cmake-3.18/Modules/CMakeDetermineCCompiler.cmake",
@@ -55,7 +55,7 @@
 		"/usr/share/cmake-3.18/Modules/CMakeFindBinUtils.cmake",
 		"/usr/share/cmake-3.18/Modules/Compiler/GNU-FindBinUtils.cmake",
 		"/usr/share/cmake-3.18/Modules/CMakeCCompiler.cmake.in",
-		"/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/3.18.4/CMakeCCompiler.cmake",
+		"/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/3.18.4/CMakeCCompiler.cmake",
 		"/usr/share/cmake-3.18/Modules/CMakeDetermineCXXCompiler.cmake",
 		"/usr/share/cmake-3.18/Modules/CMakeDetermineCompiler.cmake",
 		"/usr/share/cmake-3.18/Modules/Platform/Linux-Determine-CXX.cmake",
@@ -98,7 +98,7 @@
 		"/usr/share/cmake-3.18/Modules/CMakeFindBinUtils.cmake",
 		"/usr/share/cmake-3.18/Modules/Compiler/GNU-FindBinUtils.cmake",
 		"/usr/share/cmake-3.18/Modules/CMakeCXXCompiler.cmake.in",
-		"/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/3.18.4/CMakeCXXCompiler.cmake",
+		"/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/3.18.4/CMakeCXXCompiler.cmake",
 		"/usr/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake",
 		"/usr/share/cmake-3.18/Modules/CMakeGenericSystem.cmake",
 		"/usr/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake",
@@ -124,7 +124,7 @@
 		"/usr/share/cmake-3.18/Modules/CMakeDetermineCompileFeatures.cmake",
 		"/usr/share/cmake-3.18/Modules/Internal/FeatureTesting.cmake",
 		"/usr/share/cmake-3.18/Modules/CMakeCCompiler.cmake.in",
-		"/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/3.18.4/CMakeCCompiler.cmake",
+		"/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/3.18.4/CMakeCCompiler.cmake",
 		"/usr/share/cmake-3.18/Modules/CMakeCXXInformation.cmake",
 		"/usr/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake",
 		"/usr/share/cmake-3.18/Modules/Compiler/GNU-CXX.cmake",
@@ -142,7 +142,7 @@
 		"/usr/share/cmake-3.18/Modules/CMakeDetermineCompileFeatures.cmake",
 		"/usr/share/cmake-3.18/Modules/Internal/FeatureTesting.cmake",
 		"/usr/share/cmake-3.18/Modules/CMakeCXXCompiler.cmake.in",
-		"/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/3.18.4/CMakeCXXCompiler.cmake",
+		"/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/3.18.4/CMakeCXXCompiler.cmake",
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake",
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake",
 		"/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake",
@@ -233,82 +233,82 @@
 		"/usr/lib/x86_64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemTargets.cmake",
 		"/usr/lib/x86_64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemTargets-debian.cmake",
 		"/usr/lib/x86_64-linux-gnu/cmake/KF5WindowSystem/KF5WindowSystemQchTargets.cmake",
-		"/home/tokyo/clone/RebootOS/dock/resources.qrc"
+		"/home/tokyo/Documents/GitHub/dock/resources.qrc"
 	],
-	"CMAKE_SOURCE_DIR" : "/home/tokyo/clone/RebootOS/dock",
+	"CMAKE_SOURCE_DIR" : "/home/tokyo/Documents/GitHub/dock",
 	"DEP_FILE" : "",
 	"DEP_FILE_RULE_NAME" : "",
 	"HEADERS" : 
 	[
 		[
-			"/home/tokyo/clone/RebootOS/dock/src/activity.h",
+			"/home/tokyo/Documents/GitHub/dock/src/activity.h",
 			"MU",
 			"UVLADIE3JM/moc_activity.cpp"
 		],
 		[
-			"/home/tokyo/clone/RebootOS/dock/src/applicationitem.h",
+			"/home/tokyo/Documents/GitHub/dock/src/applicationitem.h",
 			"MU",
 			"UVLADIE3JM/moc_applicationitem.cpp"
 		],
 		[
-			"/home/tokyo/clone/RebootOS/dock/src/applicationmodel.h",
+			"/home/tokyo/Documents/GitHub/dock/src/applicationmodel.h",
 			"MU",
 			"UVLADIE3JM/moc_applicationmodel.cpp"
 		],
 		[
-			"/home/tokyo/clone/RebootOS/dock/src/docksettings.h",
+			"/home/tokyo/Documents/GitHub/dock/src/docksettings.h",
 			"MU",
 			"UVLADIE3JM/moc_docksettings.cpp"
 		],
 		[
-			"/home/tokyo/clone/RebootOS/dock/src/fakewindow.h",
+			"/home/tokyo/Documents/GitHub/dock/src/fakewindow.h",
 			"MU",
 			"UVLADIE3JM/moc_fakewindow.cpp"
 		],
 		[
-			"/home/tokyo/clone/RebootOS/dock/src/iconthemeimageprovider.h",
+			"/home/tokyo/Documents/GitHub/dock/src/iconthemeimageprovider.h",
 			"MU",
 			"UVLADIE3JM/moc_iconthemeimageprovider.cpp"
 		],
 		[
-			"/home/tokyo/clone/RebootOS/dock/src/mainwindow.h",
+			"/home/tokyo/Documents/GitHub/dock/src/mainwindow.h",
 			"MU",
 			"UVLADIE3JM/moc_mainwindow.cpp"
 		],
 		[
-			"/home/tokyo/clone/RebootOS/dock/src/processprovider.h",
+			"/home/tokyo/Documents/GitHub/dock/src/processprovider.h",
 			"MU",
 			"UVLADIE3JM/moc_processprovider.cpp"
 		],
 		[
-			"/home/tokyo/clone/RebootOS/dock/src/systemappitem.h",
+			"/home/tokyo/Documents/GitHub/dock/src/systemappitem.h",
 			"MU",
 			"UVLADIE3JM/moc_systemappitem.cpp"
 		],
 		[
-			"/home/tokyo/clone/RebootOS/dock/src/systemappmonitor.h",
+			"/home/tokyo/Documents/GitHub/dock/src/systemappmonitor.h",
 			"MU",
 			"UVLADIE3JM/moc_systemappmonitor.cpp"
 		],
 		[
-			"/home/tokyo/clone/RebootOS/dock/src/trashmanager.h",
+			"/home/tokyo/Documents/GitHub/dock/src/trashmanager.h",
 			"MU",
 			"UVLADIE3JM/moc_trashmanager.cpp"
 		],
 		[
-			"/home/tokyo/clone/RebootOS/dock/src/utils.h",
+			"/home/tokyo/Documents/GitHub/dock/src/utils.h",
 			"MU",
 			"UVLADIE3JM/moc_utils.cpp"
 		],
 		[
-			"/home/tokyo/clone/RebootOS/dock/src/xwindowinterface.h",
+			"/home/tokyo/Documents/GitHub/dock/src/xwindowinterface.h",
 			"MU",
 			"UVLADIE3JM/moc_xwindowinterface.cpp"
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"QT_CONCURRENT_LIB",
@@ -333,8 +333,8 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/home/tokyo/clone/RebootOS/dock/build",
-		"/home/tokyo/clone/RebootOS/dock",
+		"/home/tokyo/Documents/GitHub/dock/build",
+		"/home/tokyo/Documents/GitHub/dock",
 		"/usr/include/x86_64-linux-gnu/qt5",
 		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
 		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
@@ -369,35 +369,35 @@
 		"-c",
 		"/usr/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 2,
-	"PARSE_CACHE_FILE" : "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
 	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
 	"QT_VERSION_MAJOR" : 5,
 	"QT_VERSION_MINOR" : 15,
-	"SETTINGS_FILE" : "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "/home/tokyo/clone/RebootOS/dock/src/activity.cpp", "MU" ],
-		[ "/home/tokyo/clone/RebootOS/dock/src/applicationmodel.cpp", "MU" ],
-		[ "/home/tokyo/clone/RebootOS/dock/src/docksettings.cpp", "MU" ],
-		[ "/home/tokyo/clone/RebootOS/dock/src/fakewindow.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/dock/src/activity.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/dock/src/applicationmodel.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/dock/src/docksettings.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/dock/src/fakewindow.cpp", "MU" ],
 		[
-			"/home/tokyo/clone/RebootOS/dock/src/iconthemeimageprovider.cpp",
+			"/home/tokyo/Documents/GitHub/dock/src/iconthemeimageprovider.cpp",
 			"MU"
 		],
-		[ "/home/tokyo/clone/RebootOS/dock/src/main.cpp", "MU" ],
-		[ "/home/tokyo/clone/RebootOS/dock/src/mainwindow.cpp", "MU" ],
-		[ "/home/tokyo/clone/RebootOS/dock/src/processprovider.cpp", "MU" ],
-		[ "/home/tokyo/clone/RebootOS/dock/src/systemappitem.cpp", "MU" ],
-		[ "/home/tokyo/clone/RebootOS/dock/src/systemappmonitor.cpp", "MU" ],
-		[ "/home/tokyo/clone/RebootOS/dock/src/trashmanager.cpp", "MU" ],
-		[ "/home/tokyo/clone/RebootOS/dock/src/utils.cpp", "MU" ],
-		[ "/home/tokyo/clone/RebootOS/dock/src/xwindowinterface.cpp", "MU" ]
+		[ "/home/tokyo/Documents/GitHub/dock/src/main.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/dock/src/mainwindow.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/dock/src/processprovider.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/dock/src/systemappitem.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/dock/src/systemappmonitor.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/dock/src/trashmanager.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/dock/src/utils.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/dock/src/xwindowinterface.cpp", "MU" ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

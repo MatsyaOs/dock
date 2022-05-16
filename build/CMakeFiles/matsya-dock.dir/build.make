@@ -62,10 +62,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/tokyo/clone/RebootOS/dock
+CMAKE_SOURCE_DIR = /home/tokyo/Documents/GitHub/dock
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/tokyo/clone/RebootOS/dock/build
+CMAKE_BINARY_DIR = /home/tokyo/Documents/GitHub/dock/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/matsya-dock.dir/depend.make
@@ -77,12 +77,12 @@ include CMakeFiles/matsya-dock.dir/progress.make
 include CMakeFiles/matsya-dock.dir/flags.make
 
 dockadaptor.moc: dockadaptor.h
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating dockadaptor.moc"
-	/usr/lib/qt5/bin/moc @/home/tokyo/clone/RebootOS/dock/build/dockadaptor.moc_parameters
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating dockadaptor.moc"
+	/usr/lib/qt5/bin/moc @/home/tokyo/Documents/GitHub/dock/build/dockadaptor.moc_parameters
 
 dockadaptor.cpp: ../src/com.matsya.Dock.xml
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating dockadaptor.cpp, dockadaptor.h"
-	/usr/lib/qt5/bin/qdbusxml2cpp -m -a dockadaptor -i src/mainwindow.h -l MainWindow /home/tokyo/clone/RebootOS/dock/src/com.matsya.Dock.xml
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating dockadaptor.cpp, dockadaptor.h"
+	/usr/lib/qt5/bin/qdbusxml2cpp -m -a dockadaptor -i src/mainwindow.h -l MainWindow /home/tokyo/Documents/GitHub/dock/src/com.matsya.Dock.xml
 
 dockadaptor.h: dockadaptor.cpp
 	@$(CMAKE_COMMAND) -E touch_nocreate dockadaptor.h
@@ -96,217 +96,217 @@ matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp: ../images/rocket.svg
 matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp: ../images/launchpad.svg
 matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp: ../images/launcher.svg
 matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp: /usr/lib/qt5/bin/rcc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Automatic RCC for resources.qrc"
-	/usr/bin/cmake -E cmake_autorcc /home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock_autogen.dir/AutoRcc_resources_EWIEGA46WW_Info.json 
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Automatic RCC for resources.qrc"
+	/usr/bin/cmake -E cmake_autorcc /home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock_autogen.dir/AutoRcc_resources_EWIEGA46WW_Info.json 
 
 CMakeFiles/matsya-dock.dir/matsya-dock_autogen/mocs_compilation.cpp.o: CMakeFiles/matsya-dock.dir/flags.make
 CMakeFiles/matsya-dock.dir/matsya-dock_autogen/mocs_compilation.cpp.o: matsya-dock_autogen/mocs_compilation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/matsya-dock.dir/matsya-dock_autogen/mocs_compilation.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/matsya-dock_autogen/mocs_compilation.cpp.o -c /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/mocs_compilation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/matsya-dock.dir/matsya-dock_autogen/mocs_compilation.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/matsya-dock_autogen/mocs_compilation.cpp.o -c /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/mocs_compilation.cpp
 
 CMakeFiles/matsya-dock.dir/matsya-dock_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/matsya-dock.dir/matsya-dock_autogen/mocs_compilation.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/mocs_compilation.cpp > CMakeFiles/matsya-dock.dir/matsya-dock_autogen/mocs_compilation.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/mocs_compilation.cpp > CMakeFiles/matsya-dock.dir/matsya-dock_autogen/mocs_compilation.cpp.i
 
 CMakeFiles/matsya-dock.dir/matsya-dock_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/matsya-dock.dir/matsya-dock_autogen/mocs_compilation.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/mocs_compilation.cpp -o CMakeFiles/matsya-dock.dir/matsya-dock_autogen/mocs_compilation.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/mocs_compilation.cpp -o CMakeFiles/matsya-dock.dir/matsya-dock_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/matsya-dock.dir/src/applicationmodel.cpp.o: CMakeFiles/matsya-dock.dir/flags.make
 CMakeFiles/matsya-dock.dir/src/applicationmodel.cpp.o: ../src/applicationmodel.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/matsya-dock.dir/src/applicationmodel.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/applicationmodel.cpp.o -c /home/tokyo/clone/RebootOS/dock/src/applicationmodel.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/matsya-dock.dir/src/applicationmodel.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/applicationmodel.cpp.o -c /home/tokyo/Documents/GitHub/dock/src/applicationmodel.cpp
 
 CMakeFiles/matsya-dock.dir/src/applicationmodel.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/matsya-dock.dir/src/applicationmodel.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/clone/RebootOS/dock/src/applicationmodel.cpp > CMakeFiles/matsya-dock.dir/src/applicationmodel.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/Documents/GitHub/dock/src/applicationmodel.cpp > CMakeFiles/matsya-dock.dir/src/applicationmodel.cpp.i
 
 CMakeFiles/matsya-dock.dir/src/applicationmodel.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/matsya-dock.dir/src/applicationmodel.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/clone/RebootOS/dock/src/applicationmodel.cpp -o CMakeFiles/matsya-dock.dir/src/applicationmodel.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/Documents/GitHub/dock/src/applicationmodel.cpp -o CMakeFiles/matsya-dock.dir/src/applicationmodel.cpp.s
 
 CMakeFiles/matsya-dock.dir/src/docksettings.cpp.o: CMakeFiles/matsya-dock.dir/flags.make
 CMakeFiles/matsya-dock.dir/src/docksettings.cpp.o: ../src/docksettings.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/matsya-dock.dir/src/docksettings.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/docksettings.cpp.o -c /home/tokyo/clone/RebootOS/dock/src/docksettings.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/matsya-dock.dir/src/docksettings.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/docksettings.cpp.o -c /home/tokyo/Documents/GitHub/dock/src/docksettings.cpp
 
 CMakeFiles/matsya-dock.dir/src/docksettings.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/matsya-dock.dir/src/docksettings.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/clone/RebootOS/dock/src/docksettings.cpp > CMakeFiles/matsya-dock.dir/src/docksettings.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/Documents/GitHub/dock/src/docksettings.cpp > CMakeFiles/matsya-dock.dir/src/docksettings.cpp.i
 
 CMakeFiles/matsya-dock.dir/src/docksettings.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/matsya-dock.dir/src/docksettings.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/clone/RebootOS/dock/src/docksettings.cpp -o CMakeFiles/matsya-dock.dir/src/docksettings.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/Documents/GitHub/dock/src/docksettings.cpp -o CMakeFiles/matsya-dock.dir/src/docksettings.cpp.s
 
 CMakeFiles/matsya-dock.dir/src/iconthemeimageprovider.cpp.o: CMakeFiles/matsya-dock.dir/flags.make
 CMakeFiles/matsya-dock.dir/src/iconthemeimageprovider.cpp.o: ../src/iconthemeimageprovider.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/matsya-dock.dir/src/iconthemeimageprovider.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/iconthemeimageprovider.cpp.o -c /home/tokyo/clone/RebootOS/dock/src/iconthemeimageprovider.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/matsya-dock.dir/src/iconthemeimageprovider.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/iconthemeimageprovider.cpp.o -c /home/tokyo/Documents/GitHub/dock/src/iconthemeimageprovider.cpp
 
 CMakeFiles/matsya-dock.dir/src/iconthemeimageprovider.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/matsya-dock.dir/src/iconthemeimageprovider.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/clone/RebootOS/dock/src/iconthemeimageprovider.cpp > CMakeFiles/matsya-dock.dir/src/iconthemeimageprovider.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/Documents/GitHub/dock/src/iconthemeimageprovider.cpp > CMakeFiles/matsya-dock.dir/src/iconthemeimageprovider.cpp.i
 
 CMakeFiles/matsya-dock.dir/src/iconthemeimageprovider.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/matsya-dock.dir/src/iconthemeimageprovider.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/clone/RebootOS/dock/src/iconthemeimageprovider.cpp -o CMakeFiles/matsya-dock.dir/src/iconthemeimageprovider.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/Documents/GitHub/dock/src/iconthemeimageprovider.cpp -o CMakeFiles/matsya-dock.dir/src/iconthemeimageprovider.cpp.s
 
 CMakeFiles/matsya-dock.dir/src/main.cpp.o: CMakeFiles/matsya-dock.dir/flags.make
 CMakeFiles/matsya-dock.dir/src/main.cpp.o: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/matsya-dock.dir/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/main.cpp.o -c /home/tokyo/clone/RebootOS/dock/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/matsya-dock.dir/src/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/main.cpp.o -c /home/tokyo/Documents/GitHub/dock/src/main.cpp
 
 CMakeFiles/matsya-dock.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/matsya-dock.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/clone/RebootOS/dock/src/main.cpp > CMakeFiles/matsya-dock.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/Documents/GitHub/dock/src/main.cpp > CMakeFiles/matsya-dock.dir/src/main.cpp.i
 
 CMakeFiles/matsya-dock.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/matsya-dock.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/clone/RebootOS/dock/src/main.cpp -o CMakeFiles/matsya-dock.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/Documents/GitHub/dock/src/main.cpp -o CMakeFiles/matsya-dock.dir/src/main.cpp.s
 
 CMakeFiles/matsya-dock.dir/src/mainwindow.cpp.o: CMakeFiles/matsya-dock.dir/flags.make
 CMakeFiles/matsya-dock.dir/src/mainwindow.cpp.o: ../src/mainwindow.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/matsya-dock.dir/src/mainwindow.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/mainwindow.cpp.o -c /home/tokyo/clone/RebootOS/dock/src/mainwindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/matsya-dock.dir/src/mainwindow.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/mainwindow.cpp.o -c /home/tokyo/Documents/GitHub/dock/src/mainwindow.cpp
 
 CMakeFiles/matsya-dock.dir/src/mainwindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/matsya-dock.dir/src/mainwindow.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/clone/RebootOS/dock/src/mainwindow.cpp > CMakeFiles/matsya-dock.dir/src/mainwindow.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/Documents/GitHub/dock/src/mainwindow.cpp > CMakeFiles/matsya-dock.dir/src/mainwindow.cpp.i
 
 CMakeFiles/matsya-dock.dir/src/mainwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/matsya-dock.dir/src/mainwindow.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/clone/RebootOS/dock/src/mainwindow.cpp -o CMakeFiles/matsya-dock.dir/src/mainwindow.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/Documents/GitHub/dock/src/mainwindow.cpp -o CMakeFiles/matsya-dock.dir/src/mainwindow.cpp.s
 
 CMakeFiles/matsya-dock.dir/src/systemappmonitor.cpp.o: CMakeFiles/matsya-dock.dir/flags.make
 CMakeFiles/matsya-dock.dir/src/systemappmonitor.cpp.o: ../src/systemappmonitor.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/matsya-dock.dir/src/systemappmonitor.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/systemappmonitor.cpp.o -c /home/tokyo/clone/RebootOS/dock/src/systemappmonitor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/matsya-dock.dir/src/systemappmonitor.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/systemappmonitor.cpp.o -c /home/tokyo/Documents/GitHub/dock/src/systemappmonitor.cpp
 
 CMakeFiles/matsya-dock.dir/src/systemappmonitor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/matsya-dock.dir/src/systemappmonitor.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/clone/RebootOS/dock/src/systemappmonitor.cpp > CMakeFiles/matsya-dock.dir/src/systemappmonitor.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/Documents/GitHub/dock/src/systemappmonitor.cpp > CMakeFiles/matsya-dock.dir/src/systemappmonitor.cpp.i
 
 CMakeFiles/matsya-dock.dir/src/systemappmonitor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/matsya-dock.dir/src/systemappmonitor.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/clone/RebootOS/dock/src/systemappmonitor.cpp -o CMakeFiles/matsya-dock.dir/src/systemappmonitor.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/Documents/GitHub/dock/src/systemappmonitor.cpp -o CMakeFiles/matsya-dock.dir/src/systemappmonitor.cpp.s
 
 CMakeFiles/matsya-dock.dir/src/systemappitem.cpp.o: CMakeFiles/matsya-dock.dir/flags.make
 CMakeFiles/matsya-dock.dir/src/systemappitem.cpp.o: ../src/systemappitem.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/matsya-dock.dir/src/systemappitem.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/systemappitem.cpp.o -c /home/tokyo/clone/RebootOS/dock/src/systemappitem.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/matsya-dock.dir/src/systemappitem.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/systemappitem.cpp.o -c /home/tokyo/Documents/GitHub/dock/src/systemappitem.cpp
 
 CMakeFiles/matsya-dock.dir/src/systemappitem.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/matsya-dock.dir/src/systemappitem.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/clone/RebootOS/dock/src/systemappitem.cpp > CMakeFiles/matsya-dock.dir/src/systemappitem.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/Documents/GitHub/dock/src/systemappitem.cpp > CMakeFiles/matsya-dock.dir/src/systemappitem.cpp.i
 
 CMakeFiles/matsya-dock.dir/src/systemappitem.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/matsya-dock.dir/src/systemappitem.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/clone/RebootOS/dock/src/systemappitem.cpp -o CMakeFiles/matsya-dock.dir/src/systemappitem.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/Documents/GitHub/dock/src/systemappitem.cpp -o CMakeFiles/matsya-dock.dir/src/systemappitem.cpp.s
 
 CMakeFiles/matsya-dock.dir/src/processprovider.cpp.o: CMakeFiles/matsya-dock.dir/flags.make
 CMakeFiles/matsya-dock.dir/src/processprovider.cpp.o: ../src/processprovider.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/matsya-dock.dir/src/processprovider.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/processprovider.cpp.o -c /home/tokyo/clone/RebootOS/dock/src/processprovider.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/matsya-dock.dir/src/processprovider.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/processprovider.cpp.o -c /home/tokyo/Documents/GitHub/dock/src/processprovider.cpp
 
 CMakeFiles/matsya-dock.dir/src/processprovider.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/matsya-dock.dir/src/processprovider.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/clone/RebootOS/dock/src/processprovider.cpp > CMakeFiles/matsya-dock.dir/src/processprovider.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/Documents/GitHub/dock/src/processprovider.cpp > CMakeFiles/matsya-dock.dir/src/processprovider.cpp.i
 
 CMakeFiles/matsya-dock.dir/src/processprovider.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/matsya-dock.dir/src/processprovider.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/clone/RebootOS/dock/src/processprovider.cpp -o CMakeFiles/matsya-dock.dir/src/processprovider.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/Documents/GitHub/dock/src/processprovider.cpp -o CMakeFiles/matsya-dock.dir/src/processprovider.cpp.s
 
 CMakeFiles/matsya-dock.dir/src/trashmanager.cpp.o: CMakeFiles/matsya-dock.dir/flags.make
 CMakeFiles/matsya-dock.dir/src/trashmanager.cpp.o: ../src/trashmanager.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/matsya-dock.dir/src/trashmanager.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/trashmanager.cpp.o -c /home/tokyo/clone/RebootOS/dock/src/trashmanager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/matsya-dock.dir/src/trashmanager.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/trashmanager.cpp.o -c /home/tokyo/Documents/GitHub/dock/src/trashmanager.cpp
 
 CMakeFiles/matsya-dock.dir/src/trashmanager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/matsya-dock.dir/src/trashmanager.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/clone/RebootOS/dock/src/trashmanager.cpp > CMakeFiles/matsya-dock.dir/src/trashmanager.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/Documents/GitHub/dock/src/trashmanager.cpp > CMakeFiles/matsya-dock.dir/src/trashmanager.cpp.i
 
 CMakeFiles/matsya-dock.dir/src/trashmanager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/matsya-dock.dir/src/trashmanager.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/clone/RebootOS/dock/src/trashmanager.cpp -o CMakeFiles/matsya-dock.dir/src/trashmanager.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/Documents/GitHub/dock/src/trashmanager.cpp -o CMakeFiles/matsya-dock.dir/src/trashmanager.cpp.s
 
 CMakeFiles/matsya-dock.dir/src/utils.cpp.o: CMakeFiles/matsya-dock.dir/flags.make
 CMakeFiles/matsya-dock.dir/src/utils.cpp.o: ../src/utils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/matsya-dock.dir/src/utils.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/utils.cpp.o -c /home/tokyo/clone/RebootOS/dock/src/utils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/matsya-dock.dir/src/utils.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/utils.cpp.o -c /home/tokyo/Documents/GitHub/dock/src/utils.cpp
 
 CMakeFiles/matsya-dock.dir/src/utils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/matsya-dock.dir/src/utils.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/clone/RebootOS/dock/src/utils.cpp > CMakeFiles/matsya-dock.dir/src/utils.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/Documents/GitHub/dock/src/utils.cpp > CMakeFiles/matsya-dock.dir/src/utils.cpp.i
 
 CMakeFiles/matsya-dock.dir/src/utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/matsya-dock.dir/src/utils.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/clone/RebootOS/dock/src/utils.cpp -o CMakeFiles/matsya-dock.dir/src/utils.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/Documents/GitHub/dock/src/utils.cpp -o CMakeFiles/matsya-dock.dir/src/utils.cpp.s
 
 CMakeFiles/matsya-dock.dir/src/xwindowinterface.cpp.o: CMakeFiles/matsya-dock.dir/flags.make
 CMakeFiles/matsya-dock.dir/src/xwindowinterface.cpp.o: ../src/xwindowinterface.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/matsya-dock.dir/src/xwindowinterface.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/xwindowinterface.cpp.o -c /home/tokyo/clone/RebootOS/dock/src/xwindowinterface.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/matsya-dock.dir/src/xwindowinterface.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/xwindowinterface.cpp.o -c /home/tokyo/Documents/GitHub/dock/src/xwindowinterface.cpp
 
 CMakeFiles/matsya-dock.dir/src/xwindowinterface.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/matsya-dock.dir/src/xwindowinterface.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/clone/RebootOS/dock/src/xwindowinterface.cpp > CMakeFiles/matsya-dock.dir/src/xwindowinterface.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/Documents/GitHub/dock/src/xwindowinterface.cpp > CMakeFiles/matsya-dock.dir/src/xwindowinterface.cpp.i
 
 CMakeFiles/matsya-dock.dir/src/xwindowinterface.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/matsya-dock.dir/src/xwindowinterface.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/clone/RebootOS/dock/src/xwindowinterface.cpp -o CMakeFiles/matsya-dock.dir/src/xwindowinterface.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/Documents/GitHub/dock/src/xwindowinterface.cpp -o CMakeFiles/matsya-dock.dir/src/xwindowinterface.cpp.s
 
 CMakeFiles/matsya-dock.dir/src/activity.cpp.o: CMakeFiles/matsya-dock.dir/flags.make
 CMakeFiles/matsya-dock.dir/src/activity.cpp.o: ../src/activity.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/matsya-dock.dir/src/activity.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/activity.cpp.o -c /home/tokyo/clone/RebootOS/dock/src/activity.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/matsya-dock.dir/src/activity.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/activity.cpp.o -c /home/tokyo/Documents/GitHub/dock/src/activity.cpp
 
 CMakeFiles/matsya-dock.dir/src/activity.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/matsya-dock.dir/src/activity.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/clone/RebootOS/dock/src/activity.cpp > CMakeFiles/matsya-dock.dir/src/activity.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/Documents/GitHub/dock/src/activity.cpp > CMakeFiles/matsya-dock.dir/src/activity.cpp.i
 
 CMakeFiles/matsya-dock.dir/src/activity.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/matsya-dock.dir/src/activity.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/clone/RebootOS/dock/src/activity.cpp -o CMakeFiles/matsya-dock.dir/src/activity.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/Documents/GitHub/dock/src/activity.cpp -o CMakeFiles/matsya-dock.dir/src/activity.cpp.s
 
 CMakeFiles/matsya-dock.dir/src/fakewindow.cpp.o: CMakeFiles/matsya-dock.dir/flags.make
 CMakeFiles/matsya-dock.dir/src/fakewindow.cpp.o: ../src/fakewindow.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/matsya-dock.dir/src/fakewindow.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/fakewindow.cpp.o -c /home/tokyo/clone/RebootOS/dock/src/fakewindow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/matsya-dock.dir/src/fakewindow.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/src/fakewindow.cpp.o -c /home/tokyo/Documents/GitHub/dock/src/fakewindow.cpp
 
 CMakeFiles/matsya-dock.dir/src/fakewindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/matsya-dock.dir/src/fakewindow.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/clone/RebootOS/dock/src/fakewindow.cpp > CMakeFiles/matsya-dock.dir/src/fakewindow.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/Documents/GitHub/dock/src/fakewindow.cpp > CMakeFiles/matsya-dock.dir/src/fakewindow.cpp.i
 
 CMakeFiles/matsya-dock.dir/src/fakewindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/matsya-dock.dir/src/fakewindow.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/clone/RebootOS/dock/src/fakewindow.cpp -o CMakeFiles/matsya-dock.dir/src/fakewindow.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/Documents/GitHub/dock/src/fakewindow.cpp -o CMakeFiles/matsya-dock.dir/src/fakewindow.cpp.s
 
 CMakeFiles/matsya-dock.dir/dockadaptor.cpp.o: CMakeFiles/matsya-dock.dir/flags.make
 CMakeFiles/matsya-dock.dir/dockadaptor.cpp.o: dockadaptor.cpp
 CMakeFiles/matsya-dock.dir/dockadaptor.cpp.o: dockadaptor.moc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/matsya-dock.dir/dockadaptor.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/dockadaptor.cpp.o -c /home/tokyo/clone/RebootOS/dock/build/dockadaptor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/matsya-dock.dir/dockadaptor.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/dockadaptor.cpp.o -c /home/tokyo/Documents/GitHub/dock/build/dockadaptor.cpp
 
 CMakeFiles/matsya-dock.dir/dockadaptor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/matsya-dock.dir/dockadaptor.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/clone/RebootOS/dock/build/dockadaptor.cpp > CMakeFiles/matsya-dock.dir/dockadaptor.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/Documents/GitHub/dock/build/dockadaptor.cpp > CMakeFiles/matsya-dock.dir/dockadaptor.cpp.i
 
 CMakeFiles/matsya-dock.dir/dockadaptor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/matsya-dock.dir/dockadaptor.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/clone/RebootOS/dock/build/dockadaptor.cpp -o CMakeFiles/matsya-dock.dir/dockadaptor.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/Documents/GitHub/dock/build/dockadaptor.cpp -o CMakeFiles/matsya-dock.dir/dockadaptor.cpp.s
 
 CMakeFiles/matsya-dock.dir/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp.o: CMakeFiles/matsya-dock.dir/flags.make
 CMakeFiles/matsya-dock.dir/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp.o: matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/matsya-dock.dir/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp.o -c /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/matsya-dock.dir/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/matsya-dock.dir/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp.o -c /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp
 
 CMakeFiles/matsya-dock.dir/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/matsya-dock.dir/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp > CMakeFiles/matsya-dock.dir/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp > CMakeFiles/matsya-dock.dir/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp.i
 
 CMakeFiles/matsya-dock.dir/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/matsya-dock.dir/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp -o CMakeFiles/matsya-dock.dir/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp -o CMakeFiles/matsya-dock.dir/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp.s
 
 # Object files for target matsya-dock
 matsya__dock_OBJECTS = \
@@ -360,7 +360,7 @@ matsya-dock: /usr/lib/x86_64-linux-gnu/libQt5X11Extras.so.5.15.2
 matsya-dock: /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.2
 matsya-dock: /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.2
 matsya-dock: CMakeFiles/matsya-dock.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Linking CXX executable matsya-dock"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Linking CXX executable matsya-dock"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/matsya-dock.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -376,6 +376,6 @@ CMakeFiles/matsya-dock.dir/depend: dockadaptor.moc
 CMakeFiles/matsya-dock.dir/depend: dockadaptor.cpp
 CMakeFiles/matsya-dock.dir/depend: dockadaptor.h
 CMakeFiles/matsya-dock.dir/depend: matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp
-	cd /home/tokyo/clone/RebootOS/dock/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/tokyo/clone/RebootOS/dock /home/tokyo/clone/RebootOS/dock /home/tokyo/clone/RebootOS/dock/build /home/tokyo/clone/RebootOS/dock/build /home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/tokyo/Documents/GitHub/dock/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/tokyo/Documents/GitHub/dock /home/tokyo/Documents/GitHub/dock /home/tokyo/Documents/GitHub/dock/build /home/tokyo/Documents/GitHub/dock/build /home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/matsya-dock.dir/depend
 

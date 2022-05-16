@@ -4,22 +4,22 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/tokyo/clone/RebootOS/dock/build/dockadaptor.cpp" "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock.dir/dockadaptor.cpp.o"
-  "/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp" "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock.dir/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp.o"
-  "/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/mocs_compilation.cpp" "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock.dir/matsya-dock_autogen/mocs_compilation.cpp.o"
-  "/home/tokyo/clone/RebootOS/dock/src/activity.cpp" "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock.dir/src/activity.cpp.o"
-  "/home/tokyo/clone/RebootOS/dock/src/applicationmodel.cpp" "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock.dir/src/applicationmodel.cpp.o"
-  "/home/tokyo/clone/RebootOS/dock/src/docksettings.cpp" "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock.dir/src/docksettings.cpp.o"
-  "/home/tokyo/clone/RebootOS/dock/src/fakewindow.cpp" "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock.dir/src/fakewindow.cpp.o"
-  "/home/tokyo/clone/RebootOS/dock/src/iconthemeimageprovider.cpp" "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock.dir/src/iconthemeimageprovider.cpp.o"
-  "/home/tokyo/clone/RebootOS/dock/src/main.cpp" "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock.dir/src/main.cpp.o"
-  "/home/tokyo/clone/RebootOS/dock/src/mainwindow.cpp" "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock.dir/src/mainwindow.cpp.o"
-  "/home/tokyo/clone/RebootOS/dock/src/processprovider.cpp" "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock.dir/src/processprovider.cpp.o"
-  "/home/tokyo/clone/RebootOS/dock/src/systemappitem.cpp" "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock.dir/src/systemappitem.cpp.o"
-  "/home/tokyo/clone/RebootOS/dock/src/systemappmonitor.cpp" "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock.dir/src/systemappmonitor.cpp.o"
-  "/home/tokyo/clone/RebootOS/dock/src/trashmanager.cpp" "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock.dir/src/trashmanager.cpp.o"
-  "/home/tokyo/clone/RebootOS/dock/src/utils.cpp" "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock.dir/src/utils.cpp.o"
-  "/home/tokyo/clone/RebootOS/dock/src/xwindowinterface.cpp" "/home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock.dir/src/xwindowinterface.cpp.o"
+  "/home/tokyo/Documents/GitHub/dock/build/dockadaptor.cpp" "/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock.dir/dockadaptor.cpp.o"
+  "/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp" "/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock.dir/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp.o"
+  "/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/mocs_compilation.cpp" "/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock.dir/matsya-dock_autogen/mocs_compilation.cpp.o"
+  "/home/tokyo/Documents/GitHub/dock/src/activity.cpp" "/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock.dir/src/activity.cpp.o"
+  "/home/tokyo/Documents/GitHub/dock/src/applicationmodel.cpp" "/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock.dir/src/applicationmodel.cpp.o"
+  "/home/tokyo/Documents/GitHub/dock/src/docksettings.cpp" "/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock.dir/src/docksettings.cpp.o"
+  "/home/tokyo/Documents/GitHub/dock/src/fakewindow.cpp" "/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock.dir/src/fakewindow.cpp.o"
+  "/home/tokyo/Documents/GitHub/dock/src/iconthemeimageprovider.cpp" "/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock.dir/src/iconthemeimageprovider.cpp.o"
+  "/home/tokyo/Documents/GitHub/dock/src/main.cpp" "/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock.dir/src/main.cpp.o"
+  "/home/tokyo/Documents/GitHub/dock/src/mainwindow.cpp" "/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock.dir/src/mainwindow.cpp.o"
+  "/home/tokyo/Documents/GitHub/dock/src/processprovider.cpp" "/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock.dir/src/processprovider.cpp.o"
+  "/home/tokyo/Documents/GitHub/dock/src/systemappitem.cpp" "/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock.dir/src/systemappitem.cpp.o"
+  "/home/tokyo/Documents/GitHub/dock/src/systemappmonitor.cpp" "/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock.dir/src/systemappmonitor.cpp.o"
+  "/home/tokyo/Documents/GitHub/dock/src/trashmanager.cpp" "/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock.dir/src/trashmanager.cpp.o"
+  "/home/tokyo/Documents/GitHub/dock/src/utils.cpp" "/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock.dir/src/utils.cpp.o"
+  "/home/tokyo/Documents/GitHub/dock/src/xwindowinterface.cpp" "/home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock.dir/src/xwindowinterface.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -63,7 +63,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Pairs of files generated by the same build rule.
 set(CMAKE_MULTIPLE_OUTPUT_PAIRS
-  "/home/tokyo/clone/RebootOS/dock/build/dockadaptor.h" "/home/tokyo/clone/RebootOS/dock/build/dockadaptor.cpp"
+  "/home/tokyo/Documents/GitHub/dock/build/dockadaptor.h" "/home/tokyo/Documents/GitHub/dock/build/dockadaptor.cpp"
   )
 
 

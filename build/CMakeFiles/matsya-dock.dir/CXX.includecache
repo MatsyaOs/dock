@@ -80,9 +80,9 @@ KWindowInfo
 KWindowEffects
 -
 
-/home/tokyo/clone/RebootOS/dock/build/dockadaptor.cpp
+/home/tokyo/Documents/GitHub/dock/build/dockadaptor.cpp
 dockadaptor.h
-/home/tokyo/clone/RebootOS/dock/build/dockadaptor.h
+/home/tokyo/Documents/GitHub/dock/build/dockadaptor.h
 QtCore/QMetaObject
 -
 QtCore/QByteArray
@@ -98,113 +98,113 @@ QtCore/QStringList
 QtCore/QVariant
 -
 dockadaptor.moc
-/home/tokyo/clone/RebootOS/dock/build/dockadaptor.moc
+/home/tokyo/Documents/GitHub/dock/build/dockadaptor.moc
 
-/home/tokyo/clone/RebootOS/dock/build/dockadaptor.h
+/home/tokyo/Documents/GitHub/dock/build/dockadaptor.h
 QtCore/QObject
 -
 QtDBus/QtDBus
 -
 src/mainwindow.h
-/home/tokyo/clone/RebootOS/dock/build/src/mainwindow.h
+/home/tokyo/Documents/GitHub/dock/build/src/mainwindow.h
 
-/home/tokyo/clone/RebootOS/dock/build/dockadaptor.moc
+/home/tokyo/Documents/GitHub/dock/build/dockadaptor.moc
 memory
 -
 dockadaptor.h
-/home/tokyo/clone/RebootOS/dock/build/dockadaptor.h
+/home/tokyo/Documents/GitHub/dock/build/dockadaptor.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/EWIEGA46WW/qrc_resources.cpp
 
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_activity.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_activity.cpp
 memory
 -
 ../../../src/activity.h
-/home/tokyo/clone/RebootOS/dock/src/activity.h
+/home/tokyo/Documents/GitHub/dock/src/activity.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_applicationmodel.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_applicationmodel.cpp
 memory
 -
 ../../../src/applicationmodel.h
-/home/tokyo/clone/RebootOS/dock/src/applicationmodel.h
+/home/tokyo/Documents/GitHub/dock/src/applicationmodel.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_docksettings.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_docksettings.cpp
 memory
 -
 ../../../src/docksettings.h
-/home/tokyo/clone/RebootOS/dock/src/docksettings.h
+/home/tokyo/Documents/GitHub/dock/src/docksettings.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_fakewindow.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_fakewindow.cpp
 memory
 -
 ../../../src/fakewindow.h
-/home/tokyo/clone/RebootOS/dock/src/fakewindow.h
+/home/tokyo/Documents/GitHub/dock/src/fakewindow.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_mainwindow.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_mainwindow.cpp
 memory
 -
 ../../../src/mainwindow.h
-/home/tokyo/clone/RebootOS/dock/src/mainwindow.h
+/home/tokyo/Documents/GitHub/dock/src/mainwindow.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_processprovider.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_processprovider.cpp
 memory
 -
 ../../../src/processprovider.h
-/home/tokyo/clone/RebootOS/dock/src/processprovider.h
+/home/tokyo/Documents/GitHub/dock/src/processprovider.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_systemappitem.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_systemappitem.cpp
 memory
 -
 ../../../src/systemappitem.h
-/home/tokyo/clone/RebootOS/dock/src/systemappitem.h
+/home/tokyo/Documents/GitHub/dock/src/systemappitem.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_systemappmonitor.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_systemappmonitor.cpp
 memory
 -
 ../../../src/systemappmonitor.h
-/home/tokyo/clone/RebootOS/dock/src/systemappmonitor.h
+/home/tokyo/Documents/GitHub/dock/src/systemappmonitor.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_trashmanager.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_trashmanager.cpp
 memory
 -
 ../../../src/trashmanager.h
-/home/tokyo/clone/RebootOS/dock/src/trashmanager.h
+/home/tokyo/Documents/GitHub/dock/src/trashmanager.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
@@ -212,55 +212,55 @@ QtCore/qmetatype.h
 QtCore/QList
 -
 
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_utils.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_utils.cpp
 memory
 -
 ../../../src/utils.h
-/home/tokyo/clone/RebootOS/dock/src/utils.h
+/home/tokyo/Documents/GitHub/dock/src/utils.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_xwindowinterface.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_xwindowinterface.cpp
 memory
 -
 ../../../src/xwindowinterface.h
-/home/tokyo/clone/RebootOS/dock/src/xwindowinterface.h
+/home/tokyo/Documents/GitHub/dock/src/xwindowinterface.h
 QtCore/qbytearray.h
 -
 QtCore/qmetatype.h
 -
 
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/mocs_compilation.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/mocs_compilation.cpp
 UVLADIE3JM/moc_activity.cpp
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_activity.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_activity.cpp
 UVLADIE3JM/moc_applicationmodel.cpp
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_applicationmodel.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_applicationmodel.cpp
 UVLADIE3JM/moc_docksettings.cpp
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_docksettings.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_docksettings.cpp
 UVLADIE3JM/moc_fakewindow.cpp
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_fakewindow.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_fakewindow.cpp
 UVLADIE3JM/moc_mainwindow.cpp
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_mainwindow.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_mainwindow.cpp
 UVLADIE3JM/moc_processprovider.cpp
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_processprovider.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_processprovider.cpp
 UVLADIE3JM/moc_systemappitem.cpp
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_systemappitem.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_systemappitem.cpp
 UVLADIE3JM/moc_systemappmonitor.cpp
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_systemappmonitor.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_systemappmonitor.cpp
 UVLADIE3JM/moc_trashmanager.cpp
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_trashmanager.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_trashmanager.cpp
 UVLADIE3JM/moc_utils.cpp
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_utils.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_utils.cpp
 UVLADIE3JM/moc_xwindowinterface.cpp
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_xwindowinterface.cpp
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_xwindowinterface.cpp
 
-/home/tokyo/clone/RebootOS/dock/src/activity.cpp
+/home/tokyo/Documents/GitHub/dock/src/activity.cpp
 activity.h
-/home/tokyo/clone/RebootOS/dock/src/activity.h
+/home/tokyo/Documents/GitHub/dock/src/activity.h
 docksettings.h
-/home/tokyo/clone/RebootOS/dock/src/docksettings.h
+/home/tokyo/Documents/GitHub/dock/src/docksettings.h
 NETWM
 -
 KWindowSystem
@@ -268,37 +268,37 @@ KWindowSystem
 QDebug
 -
 
-/home/tokyo/clone/RebootOS/dock/src/activity.h
+/home/tokyo/Documents/GitHub/dock/src/activity.h
 QObject
 -
 
-/home/tokyo/clone/RebootOS/dock/src/applicationitem.h
+/home/tokyo/Documents/GitHub/dock/src/applicationitem.h
 QtCore
 -
 
-/home/tokyo/clone/RebootOS/dock/src/applicationmodel.cpp
+/home/tokyo/Documents/GitHub/dock/src/applicationmodel.cpp
 applicationmodel.h
-/home/tokyo/clone/RebootOS/dock/src/applicationmodel.h
+/home/tokyo/Documents/GitHub/dock/src/applicationmodel.h
 processprovider.h
-/home/tokyo/clone/RebootOS/dock/src/processprovider.h
+/home/tokyo/Documents/GitHub/dock/src/processprovider.h
 utils.h
-/home/tokyo/clone/RebootOS/dock/src/utils.h
+/home/tokyo/Documents/GitHub/dock/src/utils.h
 QProcess
 -
 
-/home/tokyo/clone/RebootOS/dock/src/applicationmodel.h
+/home/tokyo/Documents/GitHub/dock/src/applicationmodel.h
 QAbstractListModel
 -
 applicationitem.h
-/home/tokyo/clone/RebootOS/dock/src/applicationitem.h
+/home/tokyo/Documents/GitHub/dock/src/applicationitem.h
 systemappmonitor.h
-/home/tokyo/clone/RebootOS/dock/src/systemappmonitor.h
+/home/tokyo/Documents/GitHub/dock/src/systemappmonitor.h
 xwindowinterface.h
-/home/tokyo/clone/RebootOS/dock/src/xwindowinterface.h
+/home/tokyo/Documents/GitHub/dock/src/xwindowinterface.h
 
-/home/tokyo/clone/RebootOS/dock/src/docksettings.cpp
+/home/tokyo/Documents/GitHub/dock/src/docksettings.cpp
 docksettings.h
-/home/tokyo/clone/RebootOS/dock/src/docksettings.h
+/home/tokyo/Documents/GitHub/dock/src/docksettings.h
 QDBusConnection
 -
 QDBusServiceWatcher
@@ -310,17 +310,17 @@ QFile
 QDebug
 -
 
-/home/tokyo/clone/RebootOS/dock/src/docksettings.h
+/home/tokyo/Documents/GitHub/dock/src/docksettings.h
 QObject
 -
 QSettings
 -
 
-/home/tokyo/clone/RebootOS/dock/src/fakewindow.cpp
+/home/tokyo/Documents/GitHub/dock/src/fakewindow.cpp
 fakewindow.h
-/home/tokyo/clone/RebootOS/dock/src/fakewindow.h
+/home/tokyo/Documents/GitHub/dock/src/fakewindow.h
 docksettings.h
-/home/tokyo/clone/RebootOS/dock/src/docksettings.h
+/home/tokyo/Documents/GitHub/dock/src/docksettings.h
 QDebug
 -
 QApplication
@@ -338,23 +338,23 @@ KWindowSystem
 NETWM
 -
 
-/home/tokyo/clone/RebootOS/dock/src/fakewindow.h
+/home/tokyo/Documents/GitHub/dock/src/fakewindow.h
 QQuickView
 -
 QTimer
 -
 
-/home/tokyo/clone/RebootOS/dock/src/iconthemeimageprovider.cpp
+/home/tokyo/Documents/GitHub/dock/src/iconthemeimageprovider.cpp
 iconthemeimageprovider.h
-/home/tokyo/clone/RebootOS/dock/src/iconthemeimageprovider.h
+/home/tokyo/Documents/GitHub/dock/src/iconthemeimageprovider.h
 QIcon
 -
 
-/home/tokyo/clone/RebootOS/dock/src/iconthemeimageprovider.h
+/home/tokyo/Documents/GitHub/dock/src/iconthemeimageprovider.h
 QtQuick/QQuickImageProvider
 -
 
-/home/tokyo/clone/RebootOS/dock/src/main.cpp
+/home/tokyo/Documents/GitHub/dock/src/main.cpp
 QApplication
 -
 QQmlApplicationEngine
@@ -368,17 +368,17 @@ QLocale
 QDBusConnection
 -
 applicationmodel.h
-/home/tokyo/clone/RebootOS/dock/src/applicationmodel.h
+/home/tokyo/Documents/GitHub/dock/src/applicationmodel.h
 mainwindow.h
-/home/tokyo/clone/RebootOS/dock/src/mainwindow.h
+/home/tokyo/Documents/GitHub/dock/src/mainwindow.h
 
-/home/tokyo/clone/RebootOS/dock/src/mainwindow.cpp
+/home/tokyo/Documents/GitHub/dock/src/mainwindow.cpp
 mainwindow.h
-/home/tokyo/clone/RebootOS/dock/src/mainwindow.h
+/home/tokyo/Documents/GitHub/dock/src/mainwindow.h
 processprovider.h
-/home/tokyo/clone/RebootOS/dock/src/processprovider.h
+/home/tokyo/Documents/GitHub/dock/src/processprovider.h
 dockadaptor.h
-/home/tokyo/clone/RebootOS/dock/src/dockadaptor.h
+/home/tokyo/Documents/GitHub/dock/src/dockadaptor.h
 QGuiApplication
 -
 QScreen
@@ -400,45 +400,45 @@ KWindowSystem
 KWindowEffects
 -
 
-/home/tokyo/clone/RebootOS/dock/src/mainwindow.h
+/home/tokyo/Documents/GitHub/dock/src/mainwindow.h
 QQuickView
 -
 QTimer
 -
 activity.h
-/home/tokyo/clone/RebootOS/dock/src/activity.h
+/home/tokyo/Documents/GitHub/dock/src/activity.h
 docksettings.h
-/home/tokyo/clone/RebootOS/dock/src/docksettings.h
+/home/tokyo/Documents/GitHub/dock/src/docksettings.h
 applicationmodel.h
-/home/tokyo/clone/RebootOS/dock/src/applicationmodel.h
+/home/tokyo/Documents/GitHub/dock/src/applicationmodel.h
 fakewindow.h
-/home/tokyo/clone/RebootOS/dock/src/fakewindow.h
+/home/tokyo/Documents/GitHub/dock/src/fakewindow.h
 trashmanager.h
-/home/tokyo/clone/RebootOS/dock/src/trashmanager.h
+/home/tokyo/Documents/GitHub/dock/src/trashmanager.h
 
-/home/tokyo/clone/RebootOS/dock/src/processprovider.cpp
+/home/tokyo/Documents/GitHub/dock/src/processprovider.cpp
 processprovider.h
-/home/tokyo/clone/RebootOS/dock/src/processprovider.h
+/home/tokyo/Documents/GitHub/dock/src/processprovider.h
 QDBusInterface
 -
 QDBusPendingCall
 -
 
-/home/tokyo/clone/RebootOS/dock/src/processprovider.h
+/home/tokyo/Documents/GitHub/dock/src/processprovider.h
 QObject
 -
 
-/home/tokyo/clone/RebootOS/dock/src/systemappitem.cpp
+/home/tokyo/Documents/GitHub/dock/src/systemappitem.cpp
 systemappitem.h
-/home/tokyo/clone/RebootOS/dock/src/systemappitem.h
+/home/tokyo/Documents/GitHub/dock/src/systemappitem.h
 
-/home/tokyo/clone/RebootOS/dock/src/systemappitem.h
+/home/tokyo/Documents/GitHub/dock/src/systemappitem.h
 QObject
 -
 
-/home/tokyo/clone/RebootOS/dock/src/systemappmonitor.cpp
+/home/tokyo/Documents/GitHub/dock/src/systemappmonitor.cpp
 systemappmonitor.h
-/home/tokyo/clone/RebootOS/dock/src/systemappmonitor.h
+/home/tokyo/Documents/GitHub/dock/src/systemappmonitor.h
 QFileSystemWatcher
 -
 QRegularExpression
@@ -450,15 +450,15 @@ QSettings
 QLocale
 -
 
-/home/tokyo/clone/RebootOS/dock/src/systemappmonitor.h
+/home/tokyo/Documents/GitHub/dock/src/systemappmonitor.h
 QObject
 -
 systemappitem.h
-/home/tokyo/clone/RebootOS/dock/src/systemappitem.h
+/home/tokyo/Documents/GitHub/dock/src/systemappitem.h
 
-/home/tokyo/clone/RebootOS/dock/src/trashmanager.cpp
+/home/tokyo/Documents/GitHub/dock/src/trashmanager.cpp
 trashmanager.h
-/home/tokyo/clone/RebootOS/dock/src/trashmanager.h
+/home/tokyo/Documents/GitHub/dock/src/trashmanager.h
 QDebug
 -
 QProcess
@@ -468,19 +468,19 @@ QDir
 QUrl
 -
 
-/home/tokyo/clone/RebootOS/dock/src/trashmanager.h
+/home/tokyo/Documents/GitHub/dock/src/trashmanager.h
 QObject
 -
 QFileSystemWatcher
 -
 
-/home/tokyo/clone/RebootOS/dock/src/utils.cpp
+/home/tokyo/Documents/GitHub/dock/src/utils.cpp
 utils.h
-/home/tokyo/clone/RebootOS/dock/src/utils.h
+/home/tokyo/Documents/GitHub/dock/src/utils.h
 systemappmonitor.h
-/home/tokyo/clone/RebootOS/dock/src/systemappmonitor.h
+/home/tokyo/Documents/GitHub/dock/src/systemappmonitor.h
 systemappitem.h
-/home/tokyo/clone/RebootOS/dock/src/systemappitem.h
+/home/tokyo/Documents/GitHub/dock/src/systemappitem.h
 QFile
 -
 QFileInfo
@@ -494,7 +494,7 @@ QDebug
 KWindowSystem
 -
 
-/home/tokyo/clone/RebootOS/dock/src/utils.h
+/home/tokyo/Documents/GitHub/dock/src/utils.h
 QObject
 -
 QIcon
@@ -502,11 +502,11 @@ QIcon
 QUrl
 -
 
-/home/tokyo/clone/RebootOS/dock/src/xwindowinterface.cpp
+/home/tokyo/Documents/GitHub/dock/src/xwindowinterface.cpp
 xwindowinterface.h
-/home/tokyo/clone/RebootOS/dock/src/xwindowinterface.h
+/home/tokyo/Documents/GitHub/dock/src/xwindowinterface.h
 utils.h
-/home/tokyo/clone/RebootOS/dock/src/utils.h
+/home/tokyo/Documents/GitHub/dock/src/utils.h
 QTimer
 -
 QDebug
@@ -526,11 +526,11 @@ KWindowInfo
 NETWM
 -
 
-/home/tokyo/clone/RebootOS/dock/src/xwindowinterface.h
+/home/tokyo/Documents/GitHub/dock/src/xwindowinterface.h
 applicationitem.h
-/home/tokyo/clone/RebootOS/dock/src/applicationitem.h
+/home/tokyo/Documents/GitHub/dock/src/applicationitem.h
 docksettings.h
-/home/tokyo/clone/RebootOS/dock/src/docksettings.h
+/home/tokyo/Documents/GitHub/dock/src/docksettings.h
 QObject
 -
 KWindowInfo

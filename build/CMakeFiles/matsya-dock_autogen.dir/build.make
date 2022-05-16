@@ -62,10 +62,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/tokyo/clone/RebootOS/dock
+CMAKE_SOURCE_DIR = /home/tokyo/Documents/GitHub/dock
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/tokyo/clone/RebootOS/dock/build
+CMAKE_BINARY_DIR = /home/tokyo/Documents/GitHub/dock/build
 
 # Utility rule file for matsya-dock_autogen.
 
@@ -73,8 +73,8 @@ CMAKE_BINARY_DIR = /home/tokyo/clone/RebootOS/dock/build
 include CMakeFiles/matsya-dock_autogen.dir/progress.make
 
 CMakeFiles/matsya-dock_autogen:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/tokyo/clone/RebootOS/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target matsya-dock"
-	/usr/bin/cmake -E cmake_autogen /home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock_autogen.dir/AutogenInfo.json ""
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/tokyo/Documents/GitHub/dock/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target matsya-dock"
+	/usr/bin/cmake -E cmake_autogen /home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock_autogen.dir/AutogenInfo.json ""
 
 matsya-dock_autogen: CMakeFiles/matsya-dock_autogen
 matsya-dock_autogen: CMakeFiles/matsya-dock_autogen.dir/build.make
@@ -91,6 +91,6 @@ CMakeFiles/matsya-dock_autogen.dir/clean:
 .PHONY : CMakeFiles/matsya-dock_autogen.dir/clean
 
 CMakeFiles/matsya-dock_autogen.dir/depend:
-	cd /home/tokyo/clone/RebootOS/dock/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/tokyo/clone/RebootOS/dock /home/tokyo/clone/RebootOS/dock /home/tokyo/clone/RebootOS/dock/build /home/tokyo/clone/RebootOS/dock/build /home/tokyo/clone/RebootOS/dock/build/CMakeFiles/matsya-dock_autogen.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/tokyo/Documents/GitHub/dock/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/tokyo/Documents/GitHub/dock /home/tokyo/Documents/GitHub/dock /home/tokyo/Documents/GitHub/dock/build /home/tokyo/Documents/GitHub/dock/build /home/tokyo/Documents/GitHub/dock/build/CMakeFiles/matsya-dock_autogen.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/matsya-dock_autogen.dir/depend
 

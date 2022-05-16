@@ -1,5 +1,5 @@
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_docksettings.cpp: /home/tokyo/clone/RebootOS/dock/src/docksettings.h \
-  /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/moc_predefs.h \
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_docksettings.cpp: /home/tokyo/Documents/GitHub/dock/src/docksettings.h \
+  /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/moc_predefs.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/c++/10/algorithm \

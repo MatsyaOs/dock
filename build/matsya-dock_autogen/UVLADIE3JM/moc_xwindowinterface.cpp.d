@@ -1,7 +1,7 @@
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_xwindowinterface.cpp: /home/tokyo/clone/RebootOS/dock/src/xwindowinterface.h \
-  /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/moc_predefs.h \
-  /home/tokyo/clone/RebootOS/dock/src/applicationitem.h \
-  /home/tokyo/clone/RebootOS/dock/src/docksettings.h \
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_xwindowinterface.cpp: /home/tokyo/Documents/GitHub/dock/src/xwindowinterface.h \
+  /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/moc_predefs.h \
+  /home/tokyo/Documents/GitHub/dock/src/applicationitem.h \
+  /home/tokyo/Documents/GitHub/dock/src/docksettings.h \
   /usr/include/KF5/KWindowSystem/KWindowEffects \
   /usr/include/KF5/KWindowSystem/KWindowInfo \
   /usr/include/KF5/KWindowSystem/kwindoweffects.h \

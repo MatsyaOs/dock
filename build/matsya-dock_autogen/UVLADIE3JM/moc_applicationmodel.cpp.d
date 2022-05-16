@@ -1,10 +1,10 @@
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_applicationmodel.cpp: /home/tokyo/clone/RebootOS/dock/src/applicationmodel.h \
-  /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/moc_predefs.h \
-  /home/tokyo/clone/RebootOS/dock/src/applicationitem.h \
-  /home/tokyo/clone/RebootOS/dock/src/docksettings.h \
-  /home/tokyo/clone/RebootOS/dock/src/systemappitem.h \
-  /home/tokyo/clone/RebootOS/dock/src/systemappmonitor.h \
-  /home/tokyo/clone/RebootOS/dock/src/xwindowinterface.h \
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_applicationmodel.cpp: /home/tokyo/Documents/GitHub/dock/src/applicationmodel.h \
+  /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/moc_predefs.h \
+  /home/tokyo/Documents/GitHub/dock/src/applicationitem.h \
+  /home/tokyo/Documents/GitHub/dock/src/docksettings.h \
+  /home/tokyo/Documents/GitHub/dock/src/systemappitem.h \
+  /home/tokyo/Documents/GitHub/dock/src/systemappmonitor.h \
+  /home/tokyo/Documents/GitHub/dock/src/xwindowinterface.h \
   /usr/include/KF5/KWindowSystem/KWindowEffects \
   /usr/include/KF5/KWindowSystem/KWindowInfo \
   /usr/include/KF5/KWindowSystem/kwindoweffects.h \

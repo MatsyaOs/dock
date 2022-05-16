@@ -1,6 +1,6 @@
-/home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_systemappmonitor.cpp: /home/tokyo/clone/RebootOS/dock/src/systemappmonitor.h \
-  /home/tokyo/clone/RebootOS/dock/build/matsya-dock_autogen/moc_predefs.h \
-  /home/tokyo/clone/RebootOS/dock/src/systemappitem.h \
+/home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/UVLADIE3JM/moc_systemappmonitor.cpp: /home/tokyo/Documents/GitHub/dock/src/systemappmonitor.h \
+  /home/tokyo/Documents/GitHub/dock/build/matsya-dock_autogen/moc_predefs.h \
+  /home/tokyo/Documents/GitHub/dock/src/systemappitem.h \
   /usr/include/alloca.h \
   /usr/include/assert.h \
   /usr/include/c++/10/algorithm \
