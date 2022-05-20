@@ -124,8 +124,15 @@ Item {
                     easing.type: Easing.InOutQuad
                 }
             }
-        }
-MatsyaUI.VerticalDivider{}
+       }
+
+       /* Rectangle {
+            anchors.centerIn:parent
+            height: isHorizontal  ?1 :10
+            width:  isHorizontal  ? 10 :1
+            color: "#FF0000" //MatsyaUI.Theme.disabledTextColor
+            opacity:MatsyaUI.Theme.darkMode ? 0.7 : 0.5
+            } */
 DockItem {
     id: settingsItem
     implicitWidth: isHorizontal ? root.height : root.width
