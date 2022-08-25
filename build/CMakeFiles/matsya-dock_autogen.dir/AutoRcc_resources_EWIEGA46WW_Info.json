@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "/home/tokyo/matsyaos/QT6/done/dock/build/matsya-dock_autogen",
+	"CMAKE_BINARY_DIR" : "/home/tokyo/matsyaos/QT6/done/dock/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/tokyo/matsyaos/QT6/done/dock/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/tokyo/matsyaos/QT6/done/dock",
+	"CMAKE_SOURCE_DIR" : "/home/tokyo/matsyaos/QT6/done/dock",
+	"INCLUDE_DIR" : "/home/tokyo/matsyaos/QT6/done/dock/build/matsya-dock_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/tokyo/matsyaos/QT6/done/dock/qml/DockItem.qml",
+		"/home/tokyo/matsyaos/QT6/done/dock/qml/AppItem.qml",
+		"/home/tokyo/matsyaos/QT6/done/dock/qml/main.qml",
+		"/home/tokyo/matsyaos/QT6/done/dock/images/rocket.svg",
+		"/home/tokyo/matsyaos/QT6/done/dock/images/launchpad.svg",
+		"/home/tokyo/matsyaos/QT6/done/dock/images/launcher.svg"
+	],
+	"LOCK_FILE" : "/home/tokyo/matsyaos/QT6/done/dock/build/CMakeFiles/matsya-dock_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/tokyo/matsyaos/QT6/done/dock/build/CMakeFiles/matsya-dock_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/tokyo/matsyaos/QT6/done/dock/resources.qrc",
+	"VERBOSITY" : 0
+}

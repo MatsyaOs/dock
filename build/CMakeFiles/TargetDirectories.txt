@@ -1,0 +1,10 @@
+/home/tokyo/matsyaos/QT6/done/dock/build/CMakeFiles/KF5WindowSystem_QCH.dir
+/home/tokyo/matsyaos/QT6/done/dock/build/CMakeFiles/matsya-dock.dir
+/home/tokyo/matsyaos/QT6/done/dock/build/CMakeFiles/translations.dir
+/home/tokyo/matsyaos/QT6/done/dock/build/CMakeFiles/edit_cache.dir
+/home/tokyo/matsyaos/QT6/done/dock/build/CMakeFiles/rebuild_cache.dir
+/home/tokyo/matsyaos/QT6/done/dock/build/CMakeFiles/list_install_components.dir
+/home/tokyo/matsyaos/QT6/done/dock/build/CMakeFiles/install.dir
+/home/tokyo/matsyaos/QT6/done/dock/build/CMakeFiles/install/local.dir
+/home/tokyo/matsyaos/QT6/done/dock/build/CMakeFiles/install/strip.dir
+/home/tokyo/matsyaos/QT6/done/dock/build/CMakeFiles/matsya-dock_autogen.dir

@@ -1,0 +1,5 @@
+-I/home/tokyo/matsyaos/QT6/done/dock
+-I/home/tokyo/matsyaos/QT6/done/dock/build
+-o
+/home/tokyo/matsyaos/QT6/done/dock/build/dockadaptor.moc
+/home/tokyo/matsyaos/QT6/done/dock/build/dockadaptor.h
