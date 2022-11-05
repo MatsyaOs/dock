@@ -133,41 +133,7 @@ Item {
             color: "#FF0000" //MatsyaUI.Theme.disabledTextColor
             opacity:MatsyaUI.Theme.darkMode ? 0.7 : 0.5
             } */
-DockItem {
-    id: settingsItem
-    implicitWidth: isHorizontal ? root.height : root.width
-    implicitHeight: isHorizontal ? root.height : root.width
-    popupText: qsTr("System Preferences")
-    enableActivateDot: false
-    iconName: "org.gnome.Settings"
-    onClicked:process.startDetached("matsya-settings")
 
-
-    dropArea.enabled: false
-
-    /*onDropped: {
-        if (drop.hasUrls) {
-            trash.moveToTrash(drop.urls)
-        }
-    }*/
-
-    Rectangle {
-        anchors.fill: parent
-        anchors.margins: MatsyaUI.Units.smallSpacing / 2
-        color: "transparent"
-        border.color: MatsyaUI.Theme.textColor
-        radius: height * 0.3
-        border.width: 1 / MatsyaUI.Units.devicePixelRatio
-        border.pixelAligned: MatsyaUI.Units.devicePixelRatio > 1 ? false : true
-        opacity: trashItem.dropArea.containsDrag ? 0.5 : 0
-
-        Behavior on opacity {
-            NumberAnimation {
-                duration: 200
-            }
-        }
-    }
-}
         DockItem {
             id: trashItem
             implicitWidth: isHorizontal ? root.height : root.width

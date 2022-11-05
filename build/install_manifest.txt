@@ -1,4 +1,4 @@
-/usr/bin/matsya-dock
+/home/tokyo/archuseriso/profiles/matsya/airootfs/usr/bin/matsya-dock
 /usr/share/matsya-dock/translations/ar_AA.qm
 /usr/share/matsya-dock/translations/be_BY.qm
 /usr/share/matsya-dock/translations/be_Latn.qm
@@ -45,4 +45,4 @@
 /usr/share/matsya-dock/translations/vi_VN.qm
 /usr/share/matsya-dock/translations/zh_CN.qm
 /usr/share/matsya-dock/translations/zh_TW.qm
-/etc/matsya-dock-list.conf
+/home/tokyo/archuseriso/profiles/matsya/airootfs/etc/matsya-dock-list.conf

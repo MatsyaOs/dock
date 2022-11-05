@@ -255,15 +255,15 @@ void MainWindow::initScreens()
 {
     switch (m_settings->direction()) {
 // TODO
-//    case DockSettings::Left:
-//        setScreen(qGuiApp->screens().first());
-//        break;
-//    case DockSettings::Right:
-//        setScreen(qGuiApp->screens().last());
-//        break;
-//    case DockSettings::Bottom:
-//        setScreen(qGuiApp->primaryScreen());
-//        break;
+    case DockSettings::Left:
+        setScreen(qGuiApp->screens().first());
+        break;
+    case DockSettings::Right:
+        setScreen(qGuiApp->screens().last());
+        break;
+    case DockSettings::Bottom:
+        setScreen(qGuiApp->primaryScreen());
+        break;
     default:
         setScreen(qGuiApp->primaryScreen());
         break;
